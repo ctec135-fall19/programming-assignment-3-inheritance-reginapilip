@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Prob1.Animal">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prob1.Wildlife">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wildlife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prob1.Pets">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="Prob1.Animal" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.25" Y="1.796" />
+        <Point X="8.25" Y="2.03" />
+        <Point X="12.094" Y="2.03" />
+        <Point X="12.094" Y="2.345" />
+        <Point X="12.062" Y="2.345" />
+        <Point X="12.062" Y="2.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prob1.Dogs">
+    <Position X="8.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dogs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prob1.Cats">
+    <Position X="11.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prob1.Mammals">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mammals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prob1.Reptiles">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reptiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
